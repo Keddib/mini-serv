@@ -1,7 +1,7 @@
 
 NAME = mini_serv
 SRC = mini_serv.c
-GO = gcc -Wall -Wextra -Werror #-g3
+GO = gcc -Wall -Wextra -Werror -g3
 
 
 all :
